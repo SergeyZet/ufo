@@ -56,7 +56,7 @@ btnStart.onclick = function() {
 		train.style.top = Ypos + 'px';
 
         if (timePassed > 20000) {clearInterval(timer); //вырубить таймер
-        	location.replace('https://sergeyzet.github.io/test-abc/');
+        	location.replace('https://sergeyzet.github.io/watermelon/');
         }
       }, 20);
       firstTime = 1;
